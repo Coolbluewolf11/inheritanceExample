@@ -9,8 +9,7 @@ package inheritanceexamples;
  *
  * @author Tim
  */
-public abstract class Human {
-    private String birthdate;
-    private String name;
-    private String race;
+public abstract class Silverware {
+    private String material;
+    public abstract void use();
 }
