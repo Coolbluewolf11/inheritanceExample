@@ -12,4 +12,5 @@ package inheritanceexamples;
 public abstract class Vehicle {
     int maxSpeed;
     String color;
+    String owner;
 }

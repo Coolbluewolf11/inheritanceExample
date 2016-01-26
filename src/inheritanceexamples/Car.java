@@ -10,5 +10,5 @@ package inheritanceexamples;
  * @author Tim
  */
 public class Car {
-    
+    String model;
 }
