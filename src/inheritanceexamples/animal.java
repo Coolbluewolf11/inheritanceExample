@@ -10,5 +10,6 @@ package inheritanceexamples;
  * @author Tim
  */
 public class animal {
-    
+    String birthdate;
+    String species;
 }

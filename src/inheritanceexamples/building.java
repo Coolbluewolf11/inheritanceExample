@@ -10,5 +10,7 @@ package inheritanceexamples;
  * @author Tim
  */
 public class building {
-    
+    int base;
+    int length;
+    int height;
 }

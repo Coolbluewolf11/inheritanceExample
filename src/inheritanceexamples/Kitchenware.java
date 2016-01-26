@@ -10,5 +10,6 @@ package inheritanceexamples;
  * @author Tim
  */
 public class Kitchenware {
-    
+    String material;
+    String location;
 }
