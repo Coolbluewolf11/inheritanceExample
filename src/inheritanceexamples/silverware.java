@@ -12,5 +12,5 @@ package inheritanceexamples;
 public abstract class silverware implements Utensil{
     int weight;
     String material;
-    private 
+    public abstract void use();
 }
